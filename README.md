@@ -7,7 +7,8 @@ Imagine a scenario wherein something gets stolen from your house. With a normal 
 However, with this program in place, you’d be able to easily access points where movement happened at your front door, making the process more efficient. Not only does it make reviewing feed easier, but is also easy and inexpensive to implement since it is very lightweight. It can easily be run on a raspberry pi. <br />
 
 The program runs repeatedly and when ended, it shows the date and time of the recordings in a tabular form, using a CSV file of the format: <br />
-S.No. | File_Name | Start_Time | Date
+
+S.No. | File Name | Start Time | Date
 ----- | --------- | ---------- | ----
 
 ### Classifying Feed as "Moving" or "Stationary"
